@@ -11,8 +11,6 @@ Admin Panel
 
 Create appointments/ delete appointments
 
-More you find yourselft 😉
-
  # 📎 Made From :
  HTML 5 and CSS 3
 
